@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668976299 source:d:\alvaro11\espoch\carrera de software\fundamentos de programacion\laboratorio\codigo_morse\main.cpp
+	<iostream>
+	<string>
+	<cctype>
+
